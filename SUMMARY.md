@@ -1,10 +1,8 @@
 # Table of contents
 
-* [👋 LIMITLESS NETWORK](README.md)
-
 ## Overview
 
-* [💡 Introduction](overview/what-we-do.md)
+* [💡 Introduction](README.md)
 * [✨ Mission](overview/our-features.md)
 
 ## Tokenomics
