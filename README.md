@@ -1,8 +1,24 @@
-# 👋 Welcome to A Product
+---
+description: WHITEPAPER
+cover: .gitbook/assets/LIMITLESSNETWORK.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+# 👋 LIMITLESS NETWORK
 
 ## Overview
 
@@ -20,12 +36,12 @@ Here are a couple of example overviews from products with really great docs:
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="overview/introduction.md" %}
+[introduction.md](overview/introduction.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="overview/mission.md" %}
+[mission.md](overview/mission.md)
 {% endcontent-ref %}
 
 ## Get Started

@@ -1,16 +1,17 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 LIMITLESS NETWORK](README.md)
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Introduction](overview/introduction.md)
+* [✨ Mission](overview/mission.md)
 
-## Product Guides
+## Tokenomics
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 $LNT Tokenomics](tokenomics/usdlnt-tokenomics.md)
+* [$LNT TAXES](tokenomics/usdlnt-taxes.md)
+* [Page](tokenomics/page.md)
 
 ## Fundamentals
 
