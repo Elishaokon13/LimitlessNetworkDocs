@@ -4,14 +4,14 @@
 
 ## Overview
 
-* [💡 Introduction](overview/introduction.md)
-* [✨ Mission](overview/mission.md)
+* [💡 Introduction](overview/what-we-do.md)
+* [✨ Mission](overview/our-features.md)
 
 ## Tokenomics
 
-* [📪 $LNT Tokenomics](tokenomics/usdlnt-tokenomics.md)
-* [$LNT TAXES](tokenomics/usdlnt-taxes.md)
-* [Page](tokenomics/page.md)
+* [📪 $LNT Tokenomics](product-guides/making-a-post.md)
+* [💼 $LNT TAXES](tokenomics/usdlnt-taxes.md)
+* [🎁 Rewards](tokenomics/rewards.md)
 
 ## Fundamentals
 
