@@ -14,24 +14,9 @@ layout:
 
 # 🎨 Official Links
 
-## Twitter:&#x20;
+## Twitter: [https://twitter.com/Limitless\_LNT](https://twitter.com/Limitless\_LNT)
 
-## Telegram:
+## Telegram: [https://t.me/limitless\_Network\_Token](https://t.me/limitless\_Network\_Token)
 
-## Website:
+## Website: [https://limitlessnetwork.org](https://limitlessnetwork.org)
 
-## Figma Integrations
-
-{% tabs %}
-{% tab title="Installing" %}
-{% embed url="https://www.figma.com/community/plugin/950514102619019349/Automater" %}
-{% endtab %}
-
-{% tab title="Configuring" %}
-Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida at eget metus. Donec ullamcorper nulla non metus auctor fringilla. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.
-{% endtab %}
-
-{% tab title="Customizing" %}
-
-{% endtab %}
-{% endtabs %}
