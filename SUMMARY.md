@@ -12,7 +12,7 @@
     * [Features](overview/components-of-limitless-network/ai-driven-trading/features.md)
   * [3️⃣ Metaverse Integration](overview/components-of-limitless-network/metaverse-integration/README.md)
     * [Features](overview/components-of-limitless-network/metaverse-integration/features.md)
-  * [Cross-chain Dex](overview/components-of-limitless-network/cross-chain-dex/README.md)
+  * [4️⃣ Cross-chain Dex](overview/components-of-limitless-network/cross-chain-dex/README.md)
     * [Dex Features](overview/components-of-limitless-network/cross-chain-dex/dex-features.md)
 
 ## Tokenomics
