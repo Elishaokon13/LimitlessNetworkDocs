@@ -1,3 +1,2 @@
-# ✨ Mission
+# ✨ Components of Limitless Network
 
-Mining crypto is relatively new and complicated for people who have no experience. Limitless Network has built a mining facility and our mission is to extend the rewards of mining to our community of $LNT token holders. We will do this with a transparent infrastructure built alongside an open and shared community. Our goal is to empower our holders with no experience by providing a path to sharing the profits of our mining facility. Limitless Network’s mission is to make sure our investors feel secure and confident with their investments, the relationship and trust we build with our investors will prove we uphold our ambitious goal of being the “Gold Standard In Crypto”.
