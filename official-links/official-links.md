@@ -14,9 +14,9 @@ layout:
 
 # 🎨 Official Links
 
-## Twitter: [https://twitter.com/Limitless\_LNT](https://twitter.com/Limitless\_LNT)
+Twitter: [https://twitter.com/Limitless\_LNT](https://twitter.com/Limitless\_LNT)
 
-## Telegram: [https://t.me/limitless\_Network\_Token](https://t.me/limitless\_Network\_Token)
+Telegram: [https://t.me/limitless\_Network\_Token](https://t.me/limitless\_Network\_Token)
 
-## Website: [https://limitlessnetwork.org](https://limitlessnetwork.org)
+Website: [https://limitlessnetwork.org](https://limitlessnetwork.org)
 
