@@ -24,6 +24,7 @@
 ***
 
 * [Roadmap](roadmap.md)
+* [Security and Compliance](security-and-compliance.md)
 
 ## Official Links
 
